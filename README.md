@@ -1,7 +1,7 @@
 # FairMoney Loan Defaulters' Analysis
 
 ## Introduction:
-This project aims to develop a foundational understanding of risk analytics within FairMoney Financial Services, specifically focusing on minimizing the risk of financial loss while lending to customers. The analysis explores the dataset to uncover customer loan default behaviors. Understanding loan defaulters is critical for financial institutions to assess risk and make informed lending decisions. By utilizing a dataset containing information about past borrowers, including their demographics, financial history, and loan details, we aim to explore default patterns and provide actionable recommendations.
+This project aims to develop a foundational understanding of risk analytics within FairMoney Financial Services, specifically focusing on minimizing the risk of financial loss while lending to customers. The analysis explores the dataset to uncover customer loan default behaviours. Understanding loan defaulters is critical for financial institutions to assess risk and make informed lending decisions. By utilizing a dataset containing information about past borrowers, including their demographics, financial history, and loan details, we aim to explore default patterns and provide actionable recommendations.
 
 ## Tools:
 - Excel
@@ -18,7 +18,7 @@ This is a publicly available dataset containing historical data on loan applican
 Previous Loan Applicants:
 ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/f699eddb-f746-4566-b192-9512a7402608)
 
-## ![Download Dataset Here](https://www.dropbox.com/scl/fi/e4f1ek9cazdi22cbk4pc6/FairMoney-Previous-Loan-Application.xlsx?rlkey=wei42398reppwtblig5ebm63k&st=ooxgdq2p&dl=0)
+## ![Download Dataset Here](https://www.dropbox.com/scl/fi/e4f1ek9cazdi22cbk4pc6/FairMoney-Previous-Loan-Application.xlsx?rlkey=wei42398reppwtblig5ebm63k&st=gcdzudwe&dl=0)
 
 
 
@@ -68,9 +68,9 @@ These recommendations aim to enhance FairMoney's loan disbursement strategy, imp
 
 
 For more information about me and my work check the below links:
-- 🔗 For a view of my portfolio: ![My Portfolio](https://michaelolaniyij.vercel.app/)
+- 🔗 For a view of my portfolio:![My Portfolio](https://michaelolaniyij.vercel.app/)
 - 🔗 Dedails of my GitHub: ![My Github](https://lnkd.in/drcvaDcV)
-- 🔗 Let us connect on LinkedIn: ![My LinkedIn](https://www.linkedin.com/in/michael-olaniyi-jeremiah/)
+- 🔗 Let us connect on LinkedIn:![My LinkedIn](https://www.linkedin.com/in/michael-olaniyi-jeremiah/)
 - 🔗 Email me @: michaeljeremiah124@gmail.com 
 
 
