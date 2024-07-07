@@ -18,7 +18,8 @@ This is a publicly available dataset containing historical data on loan applican
 Previous Loan Applicants:
 ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/f699eddb-f746-4566-b192-9512a7402608)
 
-## ![Download Dataset Here](https://www.dropbox.com/scl/fi/e4f1ek9cazdi22cbk4pc6/FairMoney-Previous-Loan-Application.xlsx?rlkey=wei42398reppwtblig5ebm63k&st=eazwcdel&dl=0)
+## ![Download Dataset Here](https://www.dropbox.com/scl/fi/e4f1ek9cazdi22cbk4pc6/FairMoney-Previous-Loan-Application.xlsx?rlkey=x3gkn60xa7skaqfia2rzo2i2f&st=ccwecnmg&dl=0)
+If you are having any issues downloading the dataset please contact me.
 
 
 
