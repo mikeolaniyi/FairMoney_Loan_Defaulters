@@ -18,7 +18,7 @@ This is a publicly available dataset containing historical data on loan applican
 Previous Loan Applicants:
 ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/f699eddb-f746-4566-b192-9512a7402608)
 
-## ![https://www.dropbox.com/scl/fi/e4f1ek9cazdi22cbk4pc6/FairMoney-Previous-Loan-Application.xlsx?rlkey=wei42398reppwtblig5ebm63k&st=ooxgdq2p&dl=0](Download Dataset Here)
+## ![Download Dataset Here](https://www.dropbox.com/scl/fi/e4f1ek9cazdi22cbk4pc6/FairMoney-Previous-Loan-Application.xlsx?rlkey=wei42398reppwtblig5ebm63k&st=ooxgdq2p&dl=0)
 
 
 
@@ -68,9 +68,9 @@ These recommendations aim to enhance FairMoney's loan disbursement strategy, imp
 
 
 For more information about me and my work check the below links:
-- 🔗 For a view of my portfolio: ![https://michaelolaniyij.vercel.app/](My Portfolio)
-- 🔗 Dedails of my GitHub: ![https://lnkd.in/drcvaDcV](My Github)
-- 🔗 Let us connect on LinkedIn: ![https://www.linkedin.com/in/michael-olaniyi-jeremiah/](My LinkedIn)
+- 🔗 For a view of my portfolio: ![My Portfolio](https://michaelolaniyij.vercel.app/)
+- 🔗 Dedails of my GitHub: ![My Github](https://lnkd.in/drcvaDcV)
+- 🔗 Let us connect on LinkedIn: ![My LinkedIn](https://www.linkedin.com/in/michael-olaniyi-jeremiah/)
 - 🔗 Email me @: michaeljeremiah124@gmail.com 
 
 
