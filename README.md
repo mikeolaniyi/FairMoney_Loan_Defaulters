@@ -68,9 +68,9 @@ These recommendations aim to enhance FairMoney's loan disbursement strategy, imp
 
 
 For more information about me and my work check the below links:
-- 🔗 For a view of my portfolio: [https://michaelolaniyij.vercel.app/](My Portfolio)
-- 🔗 Dedails of my GitHub: [https://lnkd.in/drcvaDcV](My Github)
-- 🔗 Let us connect on LinkedIn: [https://www.linkedin.com/in/michael-olaniyi-jeremiah/](My LinkedIn)
+- 🔗 For a view of my portfolio: ![https://michaelolaniyij.vercel.app/](My Portfolio)
+- 🔗 Dedails of my GitHub: ![https://lnkd.in/drcvaDcV](My Github)
+- 🔗 Let us connect on LinkedIn: ![https://www.linkedin.com/in/michael-olaniyi-jeremiah/](My LinkedIn)
 - 🔗 Email me @: michaeljeremiah124@gmail.com 
 
 
