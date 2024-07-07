@@ -22,7 +22,7 @@ Previous Loan Applicants:
 If you are having any issues downloading the dataset please contact me.
 
 
-
+## FairMoney Loan Defaulters' Analysis Dashboard:
 ![FairMoney](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/53dc0c4b-f180-44eb-9a04-00f6a206c56e)
 
 
