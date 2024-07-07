@@ -1,5 +1,4 @@
-
-### FairMoney Loan Defaulters' Analysis
+# FairMoney Loan Defaulters' Analysis
 
 ## Introduction:
 This project aims to develop a foundational understanding of risk analytics within FairMoney Financial Services, specifically focusing on minimizing the risk of financial loss while lending to customers. The analysis explores the dataset to uncover customer loan default behaviors. Understanding loan defaulters is critical for financial institutions to assess risk and make informed lending decisions. By utilizing a dataset containing information about past borrowers, including their demographics, financial history, and loan details, we aim to explore default patterns and provide actionable recommendations.
