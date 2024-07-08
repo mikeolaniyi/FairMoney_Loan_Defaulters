@@ -15,7 +15,19 @@ The FairMoney Loan Defaulters analysis aims to identify defaulters and examine t
 ## Dataset:
 This is a publicly available dataset containing historical data on loan applicants. The dataset includes features and whether the borrower defaulted on the loan or not.
 
-Previous Loan Applicants:
+
+## Data Processing with Power Query and Power Pivot:
+
+- Removal of duplicates
+- Data normalization
+- Creation of new columns Age, Age Bin 
+-  Data connection
+-  Analysis with pivot tables
+![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/ca0ce098-2223-4834-ab83-88e6c732b221)
+
+
+
+## Previous Loan Applicants Cleaned dataset:
 ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/f699eddb-f746-4566-b192-9512a7402608)
 
 ## ![Download Dataset Here](https://www.dropbox.com/scl/fi/e4f1ek9cazdi22cbk4pc6/FairMoney-Previous-Loan-Application.xlsx?rlkey=x3gkn60xa7skaqfia2rzo2i2f&st=ccwecnmg&dl=0)
@@ -29,16 +41,29 @@ If you are having any issues downloading the dataset please contact me.
 ## Key Findings:
 
 - There are 307,511 distinct loan borrowers, with females constituting 66% and males 34%. The total loan amount disbursed is ₦184,207,084,196, with an average borrowed amount of ₦45,000.
+
+- The total number of defaulters is 24,825, with females making up 57% and males 43%.
+  
 ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/2dae360b-6f4f-4e95-a8b4-7ca1bb49e9f7)
   
 
-- The total number of defaulters is 24,825, with females making up 57% and males 43%.
 
 - Borrowers are categorized into 18 occupations, with one group unspecified. The unspecified group has the highest borrowed amount at ₦55,360,217,255, followed by labourers at ₦31,491,124,705.
 
+ ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/6cc5fa16-8ea4-474a-abdf-5582c71869b9)
+ 
+
 - Analysis of defaulters by marital status shows that married females have a higher default rate compared to married males.
+![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/bf055df8-d6da-43ae-a251-9863e4436c5c)
+
 
 - Borrowers aged 30-49, particularly those with secondary level education, have the highest loan amounts, ranging between ₦47,287,004,336 and ₦51,586,502,473.
+  
+![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/e82e451b-10f6-440f-a6cb-3980ed6de9c7)
+ ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/37d2c775-6bd0-4740-9cba-7fbdd15a5a7f)
+
+
+
 
 
 
