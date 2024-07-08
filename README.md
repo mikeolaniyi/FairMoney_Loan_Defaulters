@@ -29,6 +29,8 @@ If you are having any issues downloading the dataset please contact me.
 ## Key Findings:
 
 - There are 307,511 distinct loan borrowers, with females constituting 66% and males 34%. The total loan amount disbursed is ₦184,207,084,196, with an average borrowed amount of ₦45,000.
+![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/2dae360b-6f4f-4e95-a8b4-7ca1bb49e9f7)
+  
 
 - The total number of defaulters is 24,825, with females making up 57% and males 43%.
 
