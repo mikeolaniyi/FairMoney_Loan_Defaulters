@@ -1,6 +1,7 @@
 # FairMoney Loan Defaulters' Analysis
 
-![Fair Logo2](https://github.com/user-attachments/assets/09a8506d-18e2-4742-b817-f3a22cc3060e)
+![Fair Logo edit](https://github.com/user-attachments/assets/272e417d-5f83-49cd-9632-a896dc6ec62a)
+
 
 
 ## Introduction:
