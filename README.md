@@ -1,6 +1,7 @@
 # FairMoney Loan Defaulters' Analysis
 
-![Fair Logo edit](https://github.com/user-attachments/assets/272e417d-5f83-49cd-9632-a896dc6ec62a)
+![Fair Logo](https://github.com/user-attachments/assets/5518d640-c330-44c6-827d-62a79500b183)
+
 
 
 
@@ -67,6 +68,7 @@ If you are having any issues downloading the dataset please contact me.
 - Borrowers aged **30-49**, particularly those with secondary level education, have the highest loan amounts, ranging between **₦47,287,004,336** and **₦51,586,502,473**.
   
 ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/e82e451b-10f6-440f-a6cb-3980ed6de9c7)
+
  ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/37d2c775-6bd0-4740-9cba-7fbdd15a5a7f)
 
 
@@ -77,23 +79,23 @@ If you are having any issues downloading the dataset please contact me.
 ## Recommendations
 
 
-# 1. Targeted Loan Offerings:
+### 1. Targeted Loan Offerings:
 
   - Focus loan offerings on borrowers aged 29 to 50, who demonstrate a higher likelihood of repayment and substantial borrowing potential.
 
 
 
-# 2. Enhanced Loan Recovery Measures:
+### 2. Enhanced Loan Recovery Measures:
 
   - Implement stricter loan recovery protocols, such as obtaining pre-authorization to debit the borrower's credit or debit card upon loan due dates to ensure quicker loan recovery.
 
 
-# 3. Strategic Allocation of Loan Recovery Resources:
+### 3. Strategic Allocation of Loan Recovery Resources:
 
   - Allocate resources efficiently by targeting the recovery of the 2.6% of the total loan amount held by defaulters while continuing to offer more loans to reliable borrowers who pay on time.
 
 
-# 4. Data Collection Improvements:
+### 4. Data Collection Improvements:
 
   - Improve data collection accuracy by ensuring all occupation and age data are accurately recorded, particularly addressing the issue of unspecified occupations.
 
