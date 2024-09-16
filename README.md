@@ -59,6 +59,7 @@ If you are having any issues downloading the dataset please contact me.
  
 
 - Analysis of defaulters by marital status shows that married females have a higher default rate compared to married males.
+
 ![image](https://github.com/mikeolaniyi/FairMoney_Loan_Defaulters/assets/120651356/bf055df8-d6da-43ae-a251-9863e4436c5c)
 
 
