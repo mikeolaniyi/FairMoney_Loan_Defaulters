@@ -1,5 +1,5 @@
 # FairMoney Loan Defaulters' Analysis
-
+By Michael Michael Jeremiah
 ![Fair Logo](https://github.com/user-attachments/assets/5518d640-c330-44c6-827d-62a79500b183)
 
 
